@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cd5v79M.png",TVB News Channel (720p)
 http://51.79.193.108:8080/hls/ph00458/index.m3u8
 #EXTINF:-1 group-title="Undefined",TVB 翡翠台 (720p)
-http://120.84.96.74:808/hls/25/index.m3u8
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 ,CCTV-1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
 #EXTINF:-1 ,CCTV-2
