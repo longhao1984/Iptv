@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cd5v79M.png",TVB News Channel (720p)
-https://iptv01.eurocable.co.hu:443/EC-HANGULATTV/index.m3u8
+http://sc2022.stream-link.org/tv2306.php?id=t13
 #EXTINF:-1 group-title="Undefined",TVB 翡翠台 (720p)
 http://113.117.74.12:8081/hls/25/index.m3u8
 #EXTINF:-1 group-title="Undefined",TVB 明珠台
@@ -51,10 +51,10 @@ http://42.176.185.28:9901/tsfile/live/1016_1.m3u8
 http://103.112.191.9:880/LAOSAT1075.m3u8
 #EXTINF:-1 ,广东珠江
 http://xiaozeng.aweitv.top/tv/gdtv.php?id=gdzhujiangHD_7500
-#EXTINF:-1 ,周星驰粤语
-http://maomao.kandiantv.cn/douyu1.php?id=122402
+#EXTINF:-1 ,香港有线18台
+http://116.205.130.205:66/6/807tv.php?tid=gt&id=20
 #EXTINF:-1 ,无线新闻
-http://sc2022.stream-link.org/tv2306.php?id=h04
+http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 #EXTINF:-1 ,天映频道
 http://103.112.191.9:880/LAOSAT1029.m3u8
 #EXTINF:-1 ,凤凰资讯
