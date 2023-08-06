@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cd5v79M.png",TVB 星河
-http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
 #EXTINF:-1 group-title="Undefined",TVB 翡翠台
 http://107.151.203.111:2209/135/hk.php?id=tvbfct
 #EXTINF:-1 group-title="Undefined",TVB 明珠台
 http://107.167.12.58:27347/livehttpplay?channel_id=20125
 #EXTINF:-1 group-title="Undefined",TVB J2
-http://sc2022.stream-link.org/tv2306.php?id=h03
+http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 #EXTINF:-1 ,CCTV-1
 http://php.17186.eu.org/ysp/cctv1.m3u8
 #EXTINF:-1 ,CCTV-2
@@ -58,7 +58,7 @@ http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19
 #EXTINF:-1 ,天映频道
 http://103.112.191.9:880/LAOSAT1029.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156407&extension=ts
+https://dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&timestamp=1686272611&rand=L0EMwvvEsh&uuid=9b647b3816b2a66a&from=web&sign=aa283c67b0fc598ba2eb5ed7d31095dd
 #EXTINF:-1 ,TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 ,东森新闻
@@ -99,3 +99,13 @@ http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 ,环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 ,国家地理
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
+#EXTINF:-1 ,国家地理野生
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+#EXTINF:-1 ,探索科学
+http://198.16.100.90:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+#EXTINF:-1 ,探索频道
+http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#EXTINF:-1 ,动物星球
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
