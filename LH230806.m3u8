@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cd5v79M.png",TVB News Channel (720p)
+https://iptv01.eurocable.co.hu:443/EC-HANGULATTV/index.m3u8
+#EXTINF:-1 group-title="Undefined",TVB 翡翠台 (720p)
+http://113.117.74.12:8081/hls/25/index.m3u8
+#EXTINF:-1 group-title="Undefined",TVB 明珠台
+http://107.167.12.58:27347/livehttpplay?channel_id=20125
+#EXTINF:-1 group-title="Undefined",TVB J2
+http://sc2022.stream-link.org/tv2306.php?id=h03
+#EXTINF:-1 ,CCTV-1
+http://php.17186.eu.org/ysp/cctv1.m3u8
+#EXTINF:-1 ,CCTV-2
+http://php.17186.eu.org/ysp/cctv2.m3u8
+#EXTINF:-1 ,CCTV-3
+http://xiaozeng.aweitv.top/tv/gdtv.php?id=1603
+#EXTINF:-1 ,CCTV-4
+http://php.17186.eu.org/ysp/cctv4.m3u8
+#EXTINF:-1 ,CCTV-5
+http://php.17186.eu.org/ysp/cctv5.m3u8
+#EXTINF:-1 ,CCTV-6
+http://xiaozeng.aweitv.top/tv/gdtv.php?id=1606
+#EXTINF:-1 ,CCTV-7
+http://php.17186.eu.org/ysp/cctv7.m3u8
+#EXTINF:-1 ,CCTV-8
+http://xiaozeng.aweitv.top/tv/gdtv.php?id=1608
+#EXTINF:-1 ,CCTV-9
+http://php.17186.eu.org/ysp/cctv9.m3u8
+#EXTINF:-1 ,CCTV-10
+http://php.17186.eu.org/ysp/cctv10.m3u8
+#EXTINF:-1 ,CCTV-11
+http://php.17186.eu.org/ysp/cctv11.m3u8
+#EXTINF:-1 ,CCTV-12
+http://php.17186.eu.org/ysp/cctv12.m3u8
+#EXTINF:-1 ,CCTV-13
+http://php.17186.eu.org/ysp/cctv13.m3u8
+#EXTINF:-1 ,CCTV-14
+http://php.17186.eu.org/ysp/cctv14.m3u8
+#EXTINF:-1 ,CCTV-15
+http://php.17186.eu.org/ysp/cctv15.m3u8
+#EXTINF:-1 ,CCTV-16
+http://php.17186.eu.org/ysp/cctv16.m3u8
+#EXTINF:-1 ,CCTV-17
+http://php.17186.eu.org/ysp/cctv17.m3u8
+#EXTINF:-1 ,深圳卫视
+http://php.17186.eu.org/ysp/szws.m3u8
+#EXTINF:-1 ,广东卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://42.176.185.28:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://103.112.191.9:880/LAOSAT1075.m3u8
+#EXTINF:-1 ,广东珠江
+http://xiaozeng.aweitv.top/tv/gdtv.php?id=gdzhujiangHD_7500
+#EXTINF:-1 ,周星驰粤语
+http://maomao.kandiantv.cn/douyu1.php?id=122402
+#EXTINF:-1 ,无线新闻
+http://sc2022.stream-link.org/tv2306.php?id=h04
+#EXTINF:-1 ,天映频道
+http://103.112.191.9:880/LAOSAT1029.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156407&extension=ts
+#EXTINF:-1 ,斗鱼直播
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1 ,东森幼幼
+http://sc2022.stream-link.org/tv2306.php?id=t26
+#EXTINF:-1 ,动漫频道
+https://cntv.sbs/live?auth=2307280808&id=dmxc
+#EXTINF:-1 ,超级体育
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 ,黑莓电竞
+http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+#EXTINF:-1 ,自由搏击
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 ,浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 ,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 ,浙江影视
+http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
+#EXTINF:-1 ,浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 ,浙江数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 ,浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 ,浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 ,浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 ,浙江钱江频道
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 ,西藏卫视
+https://cntv.sbs/live?auth=2307280808&id=xzws
+#EXTINF:-1 ,黑莓电影
+http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
