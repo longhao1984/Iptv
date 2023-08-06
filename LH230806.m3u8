@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cd5v79M.png",TVB News Channel (720p)
-http://sc2022.stream-link.org/tv2306.php?id=t13
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cd5v79M.png",TVB 星河
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 #EXTINF:-1 group-title="Undefined",TVB 翡翠台 (720p)
-http://113.117.74.12:8081/hls/25/index.m3u8
+http://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 group-title="Undefined",TVB 明珠台
 http://107.167.12.58:27347/livehttpplay?channel_id=20125
 #EXTINF:-1 group-title="Undefined",TVB J2
@@ -50,9 +50,9 @@ http://42.176.185.28:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 ,卡酷少儿
 http://103.112.191.9:880/LAOSAT1075.m3u8
 #EXTINF:-1 ,广东珠江
-http://xiaozeng.aweitv.top/tv/gdtv.php?id=gdzhujiangHD_7500
-#EXTINF:-1 ,香港有线18台
-http://116.205.130.205:66/6/807tv.php?tid=gt&id=20
+http://60.208.16.27:1505/gudou.php?id=gdzhujiangHD_7500
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,无线新闻
 http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 #EXTINF:-1 ,天映频道
@@ -62,9 +62,9 @@ http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156407&extension=ts
 #EXTINF:-1 ,斗鱼直播
 http://epg.112114.xyz/douyu/9650887
 #EXTINF:-1 ,东森幼幼
-http://sc2022.stream-link.org/tv2306.php?id=t26
+http://61.221.81.93:8525/hls/65/807/ch843.m3u8
 #EXTINF:-1 ,动漫频道
-https://cntv.sbs/live?auth=2307280808&id=dmxc
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 ,超级体育
 http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 ,黑莓电竞
